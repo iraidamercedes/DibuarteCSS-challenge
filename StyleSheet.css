@@ -1,5 +1,5 @@
 body{
-    background: #FBF2DF;
+    background: #F5D8D5;
   }
   .box{
     position: relative;
@@ -18,7 +18,7 @@ body{
     left: 35%;
     width: 30%;
     height: 40%;
-    background: #FBADB9;
+    background: #eb909d;
     border-radius: 50%;
   }
   
@@ -28,7 +28,7 @@ body{
     height: 75%;
     top: 10%;
     left: 12.5%;
-    background: #FBF2DF;
+    background: #F5D8D5;
     border-radius: 50%;
   }
 
@@ -65,5 +65,131 @@ body{
     border-left: 43px solid transparent;
     transform: rotate(-70deg);
     content: '';
-}1
+}
+
+.left-wing {
+  position: relative;
+  display: block;
+  margin-top: 20%;
+  margin-left: 19%;
+  width: 70px;
+  height: 60px;
+}
+
+.feather-1 {
+  background: white;
+  margin-top: 10%;
+  width: 70px;
+  height: 30px;
+  border-radius: 50%;
+  transform: rotate(30deg);
+}
+
+.feather-2 {
+  background: white;
+  margin-top: -10%;
+  margin-left: 22%;
+  width: 50px;
+  height: 20px;
+  border-radius: 50%;
+}
+
+.feather-3 {
+  background: white;
+  margin-top: -12%;
+  margin-left: 50%;
+  width: 30px;
+  height: 15px;
+  border-radius: 50%;
+  transform: rotate(-35deg);
+}
+
+.right-wing {
+  position: relative;
+  display: block;
+  margin-top: -17%;
+  margin-left: 63%;
+  width: 70px;
+  height: 60px;
+}
+
+.feather-4 {
+  background: white;
+  margin-top: 10%;
+  width: 70px;
+  height: 30px;
+  border-radius: 50%;
+  transform: rotate(-30deg);
+}
+
+.feather-5 {
+  background: white;
+  margin-top: -10%;
+  margin-left: 22%;
+  width: 50px;
+  height: 20px;
+  border-radius: 50%;
+}
+
+.feather-6 {
+  background: white;
+  margin-top: -17%;
+  margin-left: 4%;
+  width: 30px;
+  height: 15px;
+  border-radius: 50%;
+  transform: rotate(40deg);
+}
+
+.jewel-circle {
+  position: absolute;
+  top: 58%;
+  left: 46%;
+  width: 8%;
+  height: 10%;
+  background: #FCB16D;
+  border-radius: 50%;
+}
+
+.jewel {
+  position: absolute;
+  width: 65%;
+  height: 65%;
+  top: 17%;
+  left: 18%;
+  background: #E83D5F;
+  border-radius: 50%;
+}
+
+.glow {
+  position: absolute;
+  width: 50%;
+  height: 50%;
+  top: 10%;
+  left: 35%;
+  background: #F7CDB3;
+  border-radius: 50%;
+}
+
+.base {
+  position: absolute;
+  top: 56%;
+  left: 46%;
+  width: 8%;
+  height: 3%;
+  background: #FCB16D;
+  border-radius: 30%;
+}
+
+.shaft {
+  position: absolute;
+  top: 67%;
+  left: 48.2%;
+  width: 3.5%;
+  height: 15%;
+  background: #FCB16D;
+  border-radius: 10%;
+}
+
+
   
